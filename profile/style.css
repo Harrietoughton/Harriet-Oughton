@@ -1,0 +1,33 @@
+
+body {
+  background-color: #fff3e6;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #11698e;
+  font-size: 24px;
+  line-height: 1.4;
+  letter-spacing: 0.6px;
+}
+
+h1, h2 {
+  color: #19456b;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.4;
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color:#19456b;
+  font-family: 'Playfair Display', serif;
+}
+
+a:hover {
+  color: #28abb9;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
